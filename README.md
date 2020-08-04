@@ -253,4 +253,12 @@ Durante o workshop, comentei sobre importantes documentações, links e recursos
 
 Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/workshop-mean-serverless/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
-**documentação em desenvolvimento**
+[------------------------------------------------------]
+
+$ npm install -g azure-functions-core-tools
+
+$ npm -g i nodemon
+
+mongodb://localhost:27017
+
+[------------------------------------------------------]
