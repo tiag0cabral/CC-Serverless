@@ -1,14 +1,13 @@
 {
+  "disabled": false,
   "bindings": [
     {
       "authLevel": "anonymous",
       "type": "httpTrigger",
       "direction": "in",
       "name": "req",
-      "methods": [        
-        "post"
-      ],
-      "route": "funcionarios"
+      "methods": ["get"],
+      "route": "funcionarios" 
     },
     {
       "type": "http",
