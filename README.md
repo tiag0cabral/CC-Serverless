@@ -2,8 +2,6 @@
 
 [![bit-community.png](https://i.postimg.cc/4yVhWzYt/bit-community.png)](https://postimg.cc/BPZ66PcQ)
 
-Repositório responsável pelo workshops de MEAN & Serverless.
-
 ## O que eu vou aprender?! 📙
 
 Durante esse workshop você aprenderá a realizar a migração de uma maneira simples, rápida e dinâmica uma aplicação MEAN para uma arquitetura Serverless, fazendo uso do Azure Functions!
@@ -16,7 +14,6 @@ Os dados do Funcionário consiste em:
 + nomeFuncionario: string
 + cargo: string
 + numeroIdentificador: number
-
 
 ## Recursos Utilizados 🚀
 
@@ -249,10 +246,6 @@ Durante o workshop, comentei sobre importantes documentações, links e recursos
 - ✅ **[E-Book Grátis - Azure Serverless Computing Cookbook](https://azure.microsoft.com/pt-br/resources/azure-serverless-computing-cookbook/?WT.mc_id=meanserverlessworkshop-github-gllemos)**
 - ✅ **[Cursos Grátis - Azure Functions](https://docs.microsoft.com/pt-br/learn/paths/create-serverless-applications/?WT.mc_id=meanserverlessworkshop-github-gllemos)**
 
-## Tenho Dúvidas... O que Faço?! ❓
-
-Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/workshop-mean-serverless/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
-
 [------------------------------------------------------]
 
 $ npm install -g azure-functions-core-tools
@@ -260,5 +253,17 @@ $ npm install -g azure-functions-core-tools
 $ npm -g i nodemon
 
 mongodb://localhost:27017
+
+Criando a conexão da base de dados
+
+$ func init
+
+$ npm i mongodb
+
+Criando Endpoints - Creat Function
+
+$ func new
+
+$ func host start
 
 [------------------------------------------------------]
