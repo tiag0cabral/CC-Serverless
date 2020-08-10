@@ -246,7 +246,7 @@ Durante o workshop, comentei sobre importantes documentações, links e recursos
 - ✅ **[E-Book Grátis - Azure Serverless Computing Cookbook](https://azure.microsoft.com/pt-br/resources/azure-serverless-computing-cookbook/?WT.mc_id=meanserverlessworkshop-github-gllemos)**
 - ✅ **[Cursos Grátis - Azure Functions](https://docs.microsoft.com/pt-br/learn/paths/create-serverless-applications/?WT.mc_id=meanserverlessworkshop-github-gllemos)**
 
-[------------------------------------------------------]
+[-----------------------------------------------------------------------------------]
 
 $ npm install -g azure-functions-core-tools
 
@@ -266,4 +266,4 @@ $ func new
 
 $ func host start
 
-[------------------------------------------------------]
+[-----------------------------------------------------------------------------------]
